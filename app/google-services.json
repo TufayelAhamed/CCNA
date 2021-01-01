@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "121177686991",
+    "firebase_url": "https://ccna-preparation.firebaseio.com",
+    "project_id": "ccna-preparation",
+    "storage_bucket": "ccna-preparation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121177686991:android:1d81ea62c2f1dcfe9808ba",
+        "android_client_info": {
+          "package_name": "com.example.ccnapreparation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121177686991-9do2mr1n9khghsi7k4s2qoh4fsc8omf4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ccnapreparation",
+            "certificate_hash": "9bb846d48760cac3b054c6c6df3d20998e18ad0e"
+          }
+        },
+        {
+          "client_id": "121177686991-4gi2kd1p53h33kamtbdpek68bubch74j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMsr71KJEBzAyRDa8Vj0j-c9mEVCCwa7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121177686991-4gi2kd1p53h33kamtbdpek68bubch74j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
